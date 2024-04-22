@@ -1,0 +1,77 @@
+
+As researchers trained at the intersection of technical communication
+and the rhetoric of science, technology, and medicine, we have thought a
+lot about the boundaries of scientific communication, technical
+communication, and science communication.
+
+## Communication: Science, Scientific, and Technical
+
+Science communication is commonly understood as communication aimed at
+non-expert audiences such as the general public, policymakers, and
+media, with the goal of making scientific knowledge accessible,
+enhancing public understanding of science, and influencing
+decision-making. Prototypical examples of this include Neil DeGrasse
+Tyson's StarTalk radio program, which discusses complex astronomical
+phenomena in an engaging way; public science museum exhibits, like those
+about paleontology that visually explain the prehistoric world; and
+articles in publications like Scientific American that address current
+scientific issues such as climate change for broader audiences.
+
+Scientific communication focuses on communicating with peers within the
+scientific community to advance science through the sharing of research
+findings and discussion of theories. Typical forms of scientific
+communication include peer-reviewed research articles that detail new
+studies and discoveries, presentations at scientific conferences where
+researchers share and discuss their work, and academic posters that
+succinctly present research findings at gatherings of experts.
+
+Technical communication is designed for both specialized and
+non-specialized audiences, aiming to make specialized information or
+technology comprehensible and usable. This can include detailed
+instruction manuals that guide users through the setup and use of
+devices, comprehensive reports that communicate the results and
+implications of technical assessments, and thorough documentation such
+as software user guides or API documentation, which are essential for
+understanding and effectively utilizing technology.
+
+|                          | Audience                                                                       | Purpose                                                                                                                      | Prototypical examples                                                                                                                |
+|--------------------------|--------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------|
+| Science Communication    | Non-expert or general audiences, including the public, policymakers, and media | Make scientific knowledge accessible; enhance public understanding of science; inform decision making                        | Neil De Grasse Tyson\'s StarTalk; Public science museum exhibit about paleontology; Scientific American article about climate change |
+| Scientific Communication | Peers in scientific community                                                  | Advance science by sharing research findings, discussing theories                                                            | Peer-reviewed research articles, conference presentations, posters                                                                   |
+| Technical Communication  | Specialized or non-specialized users                                           | Make specialized information or technology comprehensible and usable; use technology to communicate specialized information  | Instructions, reports, documentation                                                                                                 |
+
+: Conventional understandings of science, scienctific, and technical
+communication {.striped .hover .bordered}
+
+While these conventional understandings surely have some utility, the distinctions they rely on are often vague in practice. For example, consider the distinction between scientific knowledge and specialized information: are the media, policymakers, and citizens not users of the evidence science produces? Does making that specialized information comprehensible and usable constitute science communication or technical communication? 
+
+Consider also the notion of peer, specialized, or technical audiences: At what point are researchers in adjacent disciplines or non-academic organizations no longer peers? Are research articles published in the Journal of Environmental Management, written by ecologists and read by both environmental economists and government natural resource managers, scientific communication or science communication?
+
+Finally, consider definitions of technical communication that hinge on the use of technology: Does the use of communication technology to make information comprehensible and usable position both scientific and science communication as also forms of technical communication?
+
+The bounds of science itself are notoriously difficult to draw (take our word for it or type “demarcation problem” in your search engine of choice), and we believe the same is true for technical, technology, and expert. Fortunately, our goal is not to resolve these problems but rather simply to muddy the waters enough to suggest that: 1) public engagement with policy making is a site of science communication, broadly construed and 2) this communicative practice is also productively viewed through the lens of technical communication.
+
+## Science Communication in/and/as Public Engagement
+
+Public engagement in policy making may on its face appear to have little connection to science communication as it’s often understood, so in this section we briefly articulate two ways we see public engagement as relevant to science communication. 
+
+### What is public engagement?
+
+For our purposes here, public engagement refers to the processes and mechanisms by which the public participates in democratic policy- or decision-making. Public engagement as we define it here can be informal or informal and optional or mandated. Scholars in a range of fields as well as government practitioners use various terms to describe both public (civic, community, stakeholder, citizen) and engagement (participation, involvement, inclusion, consultation), but generally speaking these are all efforts to improve the transparency, legitimacy, and quality of government decisions through dialogue between decision makers and those affected by the decisions they make [@moore2017].
+
+In other words, we might see public engagement processes as attempts to enact the ideals of deliberative or participatory democracy, where participation and dialogue are understood as central to good decisions. 
+
+### PE as a site of science communication
+
+William Keith and Robert Danisch [@keith2014] argue that for Dewey and Deweyans, science and democracy are flip sides of the same coin. “Science, properly understood, is a democratic enterprise, and democracy is a scientific one” (2014, p. 34). Taken together, these notions of science and democracy lead directly to Dewey’s search for “social democracy”-- a “search for the practical and intellectual conditions in which appropriate and timely communicative acts can guide public deliberation, and where public deliberation simultaneously considers both ends/values and means/technologies/knowledge (2014, p. 28).
+
+To make this point, Keith and Danisch distinguish between science~1~ and science~2~:
+
+* science~1~: “the professional practices of those who pursue knowledge, not so much for its own sake but as a professional occupation: scientists, whether ‘laboratory’ or field scientists or even social scientists (p. 35).
+* science~2~: “a variety of practices having a strong family resemblance to professional science and its epistemology… [that constitute] a reflective and systematic practice of responding individually or corporately to perceived problems” (p. 35)
+
+Following Keith and Danisch, public engagement is at the very least a process in which the results of science (science~1~) are communicated to a broader group of stakeholders so that it may inform their action. Put another way, public engagement with policy making is a site in which relevant science is communicated to those involved in making policy with the goal of informing decision making. Indeed, scientists themselves often participate in these processes when their expertise or research are in some way relevant to the decision or policy in question.
+
+More radically, we might also view deliberation properly understood as scientific (science~2~)-- as a process of inquiry where we collectively and systematically define problems and put what we know to work in an attempt to address them. Here, policy makers and other stakeholders are engaging in communication as part of a scientific process. Rather than address problems based on a limited definition of the problem and view of the relevant evidence, they engage in a deliberative process to collectively define the problem, recruit and weigh evidence, and subsequently design an intervention. In this view, the science in science communication is expanded beyond the common view of scientists as folks in white lab coats or even those whose profession primarily involves research. Rather, science is expanded to include problem-solving activities, activities that from a Deweyan perspective are properly viewed as scientific when pursued in ideal conditions.
+
+In the two cases of public engagement that follow, science~1~ plays a critical role. In the first case, decision makers and other participants must consider what ecologists say about the effects of light and noise on local species when determining the impacts of building a currency production facility. In the second case, deciding how to mitigate the effects of climate change by reducing greenhouse gas emissions requires that decision makers know what contributes to current emissions levels and how different actions are likely to influence those levels, both of which are questions that professional scientists in range of disciplines have weighed in on. And through the lens of science~2~, the decision makers themselves are engaged in science and science communication to the extent that they are trying to systematically define and address a social problem.

@@ -1,0 +1,44 @@
+
+Two facilities currently manufacture U.S. currency: one in Fort Worth, Texas, built in 1990, and another in downtown Washington, DC, constructed in 1914. The Bureau of Engraving and Printing (BEP)--a government agency within the U.S. Department of the Treasury-- operates both facilities. Citing the need to modernize production and increase efficiency and worker safety, BEP has been pursuing either a significant renovation to the 100+ year-old DC facility or a replacement facility in the capital region for over a decade. After studying alternatives, BEP proposed to build a new facility in the Beltsville Agricultural Research Center (BARC) in nearby Beltsville, MD.
+
+The BEP proposal is one of tens of thousands of federal actions taken each year that are subject to the National Environmental Policy Act (NEPA), which mandates that actions with potentially significant impacts on the quality of the human environment must undergo comprehensive study and documentation through an environmental impact statement (EIS). As outlined by NEPA, there are essentially two phases of public engagement -- during the scoping period and while preparing the EIS. 
+
+## Project website
+
+Before describing these specific phases and their supporting artifacts, we want to draw attention to the [project website](https://www.nab.usace.army.mil/BEP/), which went live at the outset of the project to provide an ongoing site of engagement [@zotero-10584]. The project site is a single page with no navigation bar, but has many subsections designed to provide additional context and links to supporting information. For example, there is a section on public scoping that includes links to the public scoping report and digital versions of the presentation slides, posters, and factsheets that were used during scoping. Information about the current phase of the project is featured prominently at the top, along with links to the materials most relevant to that phase. For example, during the comment period on the DEIS links to the digital EIS and virtual reading room were prominently featured at the top of the landing page. In total, the project page currently features well over 100 links organized around six major sections, some of which feature collapsible subsections.
+
+In late 2019, BEP initiated the scoping process, presenting the proposed action and identifying issues of concern. Interested parties and stakeholders were invited to learn about the project via a public scoping presentation, posters, and fact sheets and to ask questions or leave comments on environmental issues and concerns (e.g., air quality, traffic and transportation, socioeconomics and environmental justice) associated with the proposed action. Public input from the scoping period is considered and addressed during the preparation of the EIS and summarized in the public scoping report. 
+
+Following the publication of the DEIS in late 2020, BEP held a 45-day public review and comment period. During this period, the public could submit comments about the proposed action, alternatives, potential environmental impacts, and recommended mitigation measures via mail, email, on the project website, or at the public webinar.  Engagement during EIS preparation was supported by numerous artifacts including a digital EIS, a virtual reading room of draft EIS materials, and a traditional written EIS. In addition, a webinar was held via WebEx about half way through the review period. Upon close of the comment period, the agency considers all “substantive” comments and, if necessary, conducts further analyses. A final EIS, which provides responses to substantive comments, was published in June 2021. There was then a 30-day period for the public to review the final EIS before the record of decision was published in October 2021.
+
+Although the digital EIS and the virtual reading room were billed as COVID accommodations, press releases and white papers promised that these VR- and GIS-driven tools are the future of NEPA-mandated public participation: “These modern technologies reduce internal NEPA review times, increase meaningful public involvement, improve agency decision making, and focus on improved environmental outcomes, while achieving the proposed action’s purpose and need.” In the sections that follow, we will provide a tour of these emerging digital tools, examining their functionalities and impact on public engagement within environmental decision making. 
+
+## Virtual reality reading room
+
+One of the digital tools that supported public engagement during EIS preparation was a VR-based “virtual reading room.” This tool is visually laid out to replicate the open house-style poster session that it replaced. It’s essentially a series of topical one-page summaries, with links to supporting materials and ways to submit a comment.
+
+![A virtual reality reading room used to share project information with
+public stakeholders during an environmental review
+process.](assets/virtual%20reading%20room.jpg)
+
+After clicking the link on the project website, the user/viewer is taken to the virtual reading room. The room has skylights, brick walls, and wooden floors. Virtual people of varying ages and races and wearing primarily professional attire are positioned throughout the room, looking at the ten large posters that ring the edge of the room. The posters are numbered sequentially, with the first “welcome” poster having a pulsing “start here” icon above it. The user can click on the posters, which enlarges them and displays them as a one-page PDF on the screen. In the PDF view, the user can click to advance through all the posters. The user can also exit the PDF view and rotate the virtual room to navigate to a specific poster.
+
+In the center of the room is a table with three clickable objects sitting on it. On the right, is a laptop that takes the user to the digital EIS. In the middle, is a paper booklet that takes the user to the traditional draft EIS. On the left are three black filing boxes that take the user to technical memoranda.
+
+Between the first and last posters, there is a large touch screen for people to interact with to submit a comment. When the user clicks on it, they are presented with three options for providing feedback. The user can click on the first button to email a comment. The second button allows the user to provide a comment through the project website. The third button allows the user to download a comment form.
+
+![A screenrecorded tour of the virtual reading room](assets/virtual-reading-room.mp4)
+
+## Digital EIS
+
+Another central digital tool that supported public engagement during EIS preparation was a GIS-driven “digital EIS.” This tool modularized the written EIS, and supplemented it with interactive maps. It has a similar look to Esri's "story maps."
+
+![A digital environmental impact statement used to report the
+preliminary results of an environmental review process and gather public
+comment on the draft EIS.](assets/digitalEIS.png)
+
+The landing page for the digital EIS provides high level data on the right half of the screen and photos of the current and proposed sites on the left. Clicking the start button takes the user to the abstract. In general, the digital EIS is organized in the same way that a traditional EIS is (e.g., executive summary, purpose, need, proposed actions, alternatives, resource analyses). In the text on the right side of the screen, there are internal links that let the user drill down on specific topics and connect to the traditional EIS and other project documents. As the user scrolls through the text on the right side of the screen, the visuals on the left side change. These visuals include photographs, GIS-maps, drone videos, and analytics.
+
+![A screenrecorded tour of the interactive digital EIS](assets/digital-EIS.mp4)
+
+

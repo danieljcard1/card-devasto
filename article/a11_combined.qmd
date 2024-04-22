@@ -1,0 +1,28 @@
+---
+title: "All sections"
+format: 
+  html: 
+    toc: true
+---
+
+# Intro: Science Communication & Public Engagement
+
+{{< include _background.qmd >}}
+
+# Case 1: Bureau of Engraving and Printing Facility
+
+{{< include _case1.qmd >}}
+
+# Case 2: Minnesota Climate Action Planning
+
+{{< include _case2.qmd >}}
+
+# Discussion
+
+{{< include _discussion.qmd >}}
+
+# Conclusion
+
+{{< include _conclusion.qmd >}}
+
+# References
