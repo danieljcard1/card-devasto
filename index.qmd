@@ -6,8 +6,8 @@ listing:
   type: table
   table-hover: true
   fields:
-    - image
     - title
+    - description
   sort: false
   sort-ui: false
   filter-ui: false
