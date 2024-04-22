@@ -1,0 +1,14 @@
+[
+  {
+    "listing": "/index.html",
+    "items": [
+      "/article/a01_intro.html",
+      "/article/a02_background.html",
+      "/article/a04_case1.html",
+      "/article/a05_case2.html",
+      "/article/a06_discussion.html",
+      "/article/a07_conclusion.html",
+      "/article/a08_references.html"
+    ]
+  }
+]
