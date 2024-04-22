@@ -1,0 +1,50 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Card & DeVasto"
+  page-navigation: true
+  reader-mode: true
+  navbar:
+    pinned: true
+    right: 
+      - icon: github
+        href: https://danieljcard1.github.io/card-devasto_kairos-submission/
+        aria-label: Github
+
+  sidebar:
+    style: "floating"
+    contents: 
+      - index.qmd
+      - article/a01_intro.qmd
+      - article/a02_background.qmd
+      - article/a04_case1.qmd
+      - article/a05_case2.qmd
+      - article/a06_discussion.qmd
+      - article/a07_conclusion.qmd
+      - article/a08_references.qmd
+
+format:
+  html:
+    theme: 
+      light: materia
+      dark: cyborg
+    css: custom.css
+    fontsize: 1.2em
+    linestretch: 1.7
+    grid: 
+      sidebar-width: 275px
+      body-width: 850px
+      margin-width: 260px
+      gutter-width: 1.8rem
+    toc: true
+    toc-depth: 3
+    fig-cap-location: top
+    lightbox: true
+    embed-resources: false #switch to true for final publish?
+    
+        
+bibliography: references.bib
+
+
