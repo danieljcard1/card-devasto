@@ -1,5 +1,10 @@
 ---
 title: "Case 2: Minnesota Climate Action Planning"
+format: 
+  html: 
+    embed-resources: false
+    mermaid: 
+      theme: neutral
 ---
 
 {{< include _case2.qmd >}}

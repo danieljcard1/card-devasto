@@ -18,6 +18,19 @@ implement. Submitting the plan made the MPCA eligible to apply for an
 implementation grant, which would provide funding for one or more
 projects identified in a Priority Climate Action Plan.
 
+```{mermaid}
+
+flowchart TD
+    A[Secure Planning Grant] --> B
+    subgraph B [Develop Priority Climate Action Plan]
+        B1[Draft a List of Project Categories]
+        B1 --> B2[Identify Project & Program Ideas]
+        B2 --> B3[Choose, Refine, and Describe Ideas to Pursue]
+    end
+    B3 --> C[Develop Comprehensive Climate Action Plan]
+    C --> D[Apply for Implementation Grant]
+```
+
 This effort to "identify priorities for federal climate funding" is in some sense happening on a [project-specific EngagementHQ webpage](https://engage.eqb.state.mn.us/climate-priorities).  
 
 ## Engagement HQ
@@ -71,6 +84,14 @@ to frame subsequent engagement around a set of shared, salient facts.
 
 ![Presenting data via webinar](assets/webinar-youtube-ghg-emissions.png)
 
+In addition to providing data, the agency directs participants to data sources they believe will be compelling to the funding agency. For example, they note that the EPA reviewers expect projects to have a positive impact on disadvantaged communities, as defined by [Justice40 Initiative criteria](https://screeningtool.geoplatform.gov/en/methodology) and the Inflation Reduction Act's Disadvataged Communities Map [@zotero-10588; @usepa2023]. 
+
+Participants are directed to access maps of disadvantaged communities in Minnesota via EJScreen, the EPA's Environmental Justice Screening and Mapping Tool [@zotero-10590]. 
+
+```{=html}
+<iframe src="https://ejscreen.epa.gov/mapper/" title="EJScreen: Environmental Justice Screening and Mapping Tool" width="100%" height="500" style="border:none;"></iframe>
+```
+
 Additional files are added throughout the project, such as an outline of potential ideas early in the project and a draft of Priority Climate Action Plan.   
 
 ## Survey
@@ -95,4 +116,6 @@ The team also used a "forum board" to invite participants to share ideas. While 
 ![Forum board in EngagementHQ](assets/engagementhq-forum.PNG)
 
 Here again, participants are able to respond to others' posts.
+
+Overall, we see the MPCA use the features of EngagementHQ to not only to provide participants with information in a variety of formats but also to facilitate exchange among participants.  
 
