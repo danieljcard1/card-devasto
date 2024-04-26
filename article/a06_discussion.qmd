@@ -1,3 +1,5 @@
 ---
-title: "Discussion"
+title: "Discussion: Designing Spaces of Engagement"
 ---
+
+{{< include _discussion.qmd >}}

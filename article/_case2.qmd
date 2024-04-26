@@ -11,12 +11,14 @@ agencies and stakeholders, the MPCA secured a planning grant in June
 2023. The deliverables for this grant included a "Priority Climate
 Action Plan" that provides "a focused list of near-term, high-priority,
 implementation-ready measures to reduce climate pollution from
-greenhouse gas emissions" [@kohlaschb, p. 8].
+greenhouse gas emissions" [@kohlaschb, p. 8]. 
 
 The PCPA includes a list of projects the agency would be ready to
 implement. Submitting the plan made the MPCA eligible to apply for an
 implementation grant, which would provide funding for one or more
 projects identified in a Priority Climate Action Plan.
+
+The MPCA's process for writing that action plan is our focus in this case. 
 
 ```{mermaid}
 
@@ -31,7 +33,7 @@ flowchart TD
     C --> D[Apply for Implementation Grant]
 ```
 
-This effort to "identify priorities for federal climate funding" is in some sense happening on a [project-specific EngagementHQ webpage](https://engage.eqb.state.mn.us/climate-priorities).  
+More specifically, we focus on the MPCA's engagement activities as implemented via a [project-specific EngagementHQ webpage](https://engage.eqb.state.mn.us/climate-priorities) dedicated to "identifying priorities for federal climate funding".   
 
 ## Engagement HQ
 
