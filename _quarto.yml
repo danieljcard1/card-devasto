@@ -10,7 +10,7 @@ website:
     pinned: true
     right: 
       - icon: github
-        href: https://danieljcard1.github.io/card-devasto_kairos-submission/
+        href: https://github.com/danieljcard1/card-devasto
         aria-label: Github
 
   sidebar:
@@ -41,6 +41,7 @@ format:
     toc: true
     toc-depth: 3
     fig-cap-location: top
+    tbl-cap-location: top
     lightbox: true
     embed-resources: true #switch to true for final publish?
         
