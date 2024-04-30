@@ -3,9 +3,12 @@ project:
   output-dir: docs
 
 website:
-  title: "Card & DeVasto"
+  title: "From Information to Action: Technical (Science) Communication and Digital Engagement"
+  description: "Kairos article, Card & DeVasto"
   page-navigation: true
   reader-mode: true
+  page-footer:
+    left: "Card & DeVasto"
   navbar:
     pinned: true
     right: 

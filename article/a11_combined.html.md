@@ -5,6 +5,8 @@ execute:
 format: 
   html: 
     toc: true
+  pdf: 
+    documentclass: scrartcl
 ---
 
 
@@ -212,9 +214,11 @@ Before describing these specific phases and their supporting artifacts, we want 
 
 Another digital tool that supported public engagement during EIS preparation was a VR-based “virtual reading room.” Billed as a COVID accommodation, press releases and white papers promised that this VR-driven tool in combination with the GIS-driven tool we will discuss in the next section are the future of NEPA-mandated public participation: “These modern technologies reduce internal NEPA review times, increase meaningful public involvement, improve agency decision making, and focus on improved environmental outcomes, while achieving the proposed action’s purpose and need” [@zotero-10647].
 
-The virtual reading room is visually laid out to replicate the open house-style poster session that it replaced. It’s essentially a series of topical one-page summaries, with links to supporting materials and ways to submit a comment. 
+The virtual reading room is visually laid out to replicate the open house-style poster session that it replaced. It’s essentially a series of topical one-page summaries, with links to supporting materials and ways to submit a comment.
 
+::: {.content-visible unless-format="pdf"}
 ![A screenrecorded tour of the virtual reading room](assets/virtual-reading-room.mp4)
+:::
 
 After clicking the link on the project website, participants are taken to the virtual reading room. The room has skylights, brick walls, and wooden floors. Virtual people of varying ages and races and wearing primarily professional attire are positioned throughout the room, looking at the ten large posters that ring the edge of the room. The posters are numbered sequentially, with the first “welcome” poster having a pulsing “start here” icon above it. Participants can click on the posters, which enlarges them and displays them as a one-page PDF on the screen. In the PDF view, participants can click to advance through all the posters. Participants can also exit the PDF view and rotate the virtual room to navigate to a specific poster.
 
@@ -230,7 +234,9 @@ Between the first and last posters, there is an image of a large touch screen fo
 
 Another central digital tool that supported public engagement during EIS preparation was a GIS-driven “digital EIS.” Developed in collaboration with the engineering consulting firm AECOM,  the digital EIS provided “an interactive, web-based, fully navigable experience for stakeholders and decision makers to visually understand the proposed action” (AECOM, 2021). This tool modularized the written EIS and technical memoranda, and supplemented them with interactive maps. It has a similar look to Esri's "story maps."
 
+::: {.content-visible unless-format="pdf"}
 ![A screenrecorded tour of the interactive digital EIS](assets/digital-EIS.mp4)
+:::
 
 The landing page for the digital EIS provides high level data on the right half of the screen and photos of the current and proposed sites on the left. Clicking the start button takes participants to the abstract. In general, the digital EIS is organized in the same way that a traditional EIS is (e.g., executive summary, purpose, need, proposed actions, alternatives, resource analyses). In the text on the right side of the screen, there are internal links that let participants drill down on specific topics and connect to the traditional EIS and other project documents. As participants scroll through the text on the right side of the screen, the visuals on the left side change. These visuals include photographs, GIS-maps, drone videos, and analytics.
 
@@ -332,14 +338,16 @@ to frame subsequent engagement around a set of shared, salient facts.
 
 In addition to providing data, the agency directs participants to data sources they believe will be compelling to the funding agency. For example, they note that the EPA reviewers expect projects to have a positive impact on disadvantaged communities, as defined by [Justice40 Initiative criteria](https://screeningtool.geoplatform.gov/en/methodology) and the Inflation Reduction Act's Disadvataged Communities Map [@zotero-10588; @usepa2023]. 
 
-Participants are directed to access maps of disadvantaged communities in Minnesota via EJScreen, the EPA's Environmental Justice Screening and Mapping Tool [@zotero-10590]. 
+Participants are directed to access maps of disadvantaged communities in Minnesota via EJScreen, the EPA's Environmental Justice Screening and Mapping Tool [@zotero-10590].
 
+::: {.content-visible unless-format="pdf"}
 
 ```{=html}
 <iframe src="https://ejscreen.epa.gov/mapper/" title="EJScreen: Environmental Justice Screening and Mapping Tool" width="100%" height="500" style="border:none;"></iframe>
  <figcaption>EJScreen website.</figcaption>
 ```
 
+:::
 
 Additional files are added throughout the project, such as an outline of potential ideas early in the project and a draft of the PCAP.  
 

@@ -5,6 +5,8 @@ execute:
 format: 
   html: 
     toc: true
+  pdf: 
+    documentclass: scrartcl
 ---
 # Intro: Science Communication & Public Engagement
 

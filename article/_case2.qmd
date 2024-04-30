@@ -71,12 +71,14 @@ to frame subsequent engagement around a set of shared, salient facts.
 
 In addition to providing data, the agency directs participants to data sources they believe will be compelling to the funding agency. For example, they note that the EPA reviewers expect projects to have a positive impact on disadvantaged communities, as defined by [Justice40 Initiative criteria](https://screeningtool.geoplatform.gov/en/methodology) and the Inflation Reduction Act's Disadvataged Communities Map [@zotero-10588; @usepa2023]. 
 
-Participants are directed to access maps of disadvantaged communities in Minnesota via EJScreen, the EPA's Environmental Justice Screening and Mapping Tool [@zotero-10590]. 
+Participants are directed to access maps of disadvantaged communities in Minnesota via EJScreen, the EPA's Environmental Justice Screening and Mapping Tool [@zotero-10590].
 
+::: {.content-visible unless-format="pdf"}
 ```{=html}
 <iframe src="https://ejscreen.epa.gov/mapper/" title="EJScreen: Environmental Justice Screening and Mapping Tool" width="100%" height="500" style="border:none;"></iframe>
  <figcaption>EJScreen website.</figcaption>
 ```
+:::
 
 Additional files are added throughout the project, such as an outline of potential ideas early in the project and a draft of the PCAP.  
 
