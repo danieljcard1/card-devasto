@@ -4,16 +4,20 @@ project:
 
 website:
   title: "From Information to Action: Technical (Science) Communication and Digital Engagement"
-  description: "Kairos article, Card & DeVasto"
+  description: "Kairos article, under review"
   page-navigation: true
+  other-links: 
+    - text: Manuscript PDF
+      icon: filetype-pdf
+      href: "https://danieljcard1.github.io/card-devasto/article/a11_combined.pdf"
   reader-mode: true
   page-footer:
-    left: "Card & DeVasto"
+    left: "under review"
   navbar:
     pinned: true
     right: 
       - icon: github
-        href: https://github.com/danieljcard1/card-devasto
+        href: https://github.com/
         aria-label: Github
 
   sidebar:
@@ -26,7 +30,7 @@ website:
       - article/a06_discussion.qmd
       - article/a07_conclusion.qmd
       - article/a08_references.qmd
-      - article/a11_combined.qmd
+     # - article/a11_combined.qmd
 
 format:
   html:

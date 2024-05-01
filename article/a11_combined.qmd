@@ -1,5 +1,5 @@
 ---
-title: "All sections"
+title: "From Information to Action: Technical (Science) Communication and Digital Engagement"
 execute:
   keep-md: true
 format: 
@@ -8,6 +8,13 @@ format:
   pdf: 
     documentclass: scrartcl
 ---
+
+In this article, we provide a tour of the ecology of emerging digital tools and artifacts that increasingly mediate public engagement with science in the context of environmental decision making. We draw on two cases of public engagement in which government agencies involve citizens and other stakeholders in decisions where science is relevant. 
+
+In so doing, we shed light on how emerging digital technologies are being used to facilitate 1) collaboration among scientists and other technical experts and 2) engagement with citizen stakeholders. 
+
+As our examination of emerging technologies in this context illustrates, while not all technical communication is science communication, science communication is increasingly also productively viewed as technical communication. We conclude by providing resources and recommendations from the field of technical communication for supporting effective science communication and public engagement.
+
 # Intro: Science Communication & Public Engagement
 
 {{< include _background.qmd >}}
@@ -20,7 +27,7 @@ format:
 
 {{< include _case2.qmd >}}
 
-# Discussion
+# Discussion: Designing Spaces of Engagement
 
 {{< include _discussion.qmd >}}
 

@@ -1,5 +1,5 @@
 ---
-title: "All sections"
+title: "From Information to Action: Technical (Science) Communication and Digital Engagement"
 execute:
   keep-md: true
 format: 
@@ -10,6 +10,13 @@ format:
 ---
 
 
+
+
+In this article, we provide a tour of the ecology of emerging digital tools and artifacts that increasingly mediate public engagement with science in the context of environmental decision making. We draw on two cases of public engagement in which government agencies involve citizens and other stakeholders in decisions where science is relevant. 
+
+In so doing, we shed light on how emerging digital technologies are being used to facilitate 1) collaboration among scientists and other technical experts and 2) engagement with citizen stakeholders. 
+
+As our examination of emerging technologies in this context illustrates, while not all technical communication is science communication, science communication is increasingly also productively viewed as technical communication. We conclude by providing resources and recommendations from the field of technical communication for supporting effective science communication and public engagement.
 
 # Intro: Science Communication & Public Engagement
 
@@ -111,7 +118,7 @@ In other words, we might see public engagement processes as attempts to
 enact the ideals of deliberative or participatory democracy, where
 participation and dialogue are understood as central to good decisions.
 
-### PE as a site of science communication
+### Public engagement as a site of science communication
 
 @keith2014 argued that for Dewey and Deweyans, science and democracy are
 flip sides of the same coin. "Science, properly understood, is a
@@ -369,14 +376,14 @@ Overall, we see the MPCA use the features of EngagementHQ not only to provide pa
 
 
 
-# Discussion
+# Discussion: Designing Spaces of Engagement
 
 
 While science communication is often discussed as an effort to make complex, science-y things more approachable for "lay" audiences, we might instead view science communication as essentially an effort to make what an expert community knows both approachable and *actionable* for those outside that expert community. This view shifts the audience of science communication from passive receivers of information to active participants with goals. In so doing, this perspective brings science communication closer to the realm of technical communication, where the primary focus is not merely on making information approachable, but on making it useful for people with problems to address or tasks to complete [@simmons2012].
 
 In the two cases of public engagement we’ve discussed, each of the digital tools seem designed to provide stakeholders with additional ways to access information. In a broad sense, these artifacts certainly allow more people to access project information and subsequently participate in the decision-making process than physical meetings alone. For example, as a web-based artifact, BEP’s digital EIS makes use of linking to provide access to a wealth of data; it also makes use of GIS to incorporate information-rich, interactive maps that are not typically part of traditional EISs. Relevant agencies and representatives at the state and local levels are likely to appreciate having access to all that data alongside the modularized written content that the digital EIS provides. For non-expert participants, the visual format might be easier to engage with than a 100-1000 page technical report. Indeed, the infrastructure firm that designed the platforms for both the digital EIS and virtual reading room says the technologies will improve stakeholder engagement by “presenting highly technical information in a user-friendly online and interactive format…[leading] to improved outcomes for communities worldwide” [@mposso].
 
-Making specialized information available and more approachable for a variety of audiences via digital tools is certainly important, but does not necessarily empower stakeholders nor is it a guarantee of improved outcomes. We agree with @clark2007b, who suggests "empowerment is more complex than simple access to information." Indeed, a closer look at the events and artifacts that facilitate public engagement in the BEP case (e.g., the webinar, the virtual reading room, the reports to be reviewed) suggest primarily one-way conversations in which information is being delivered. For example, consider the virtual reading room: an online, interactive space that visually approximates a poster session. Created as part of an effort to provide “stakeholders with a safe and effective way to understand the proposed project and provide input despite social distancing requirements,” the virtual reading room is visually rich, available 24/7 with internet access, and mobile-friendly [@zotero-10647]. While the amount of information a viewer has access to is extensive, it doesn’t replicate the most important function of a poster session or open house -- dialogue with humans. 
+Making specialized information available and more approachable for a variety of audiences via digital tools is certainly important, but does not necessarily empower stakeholders nor is it a guarantee of improved outcomes [@blythe2008; @card2020; @simmonsmichelle; @simmons2007; @grabill1998]. We agree with @clark2007b, who suggests "empowerment is more complex than simple access to information." Indeed, a closer look at the events and artifacts that facilitate public engagement in the BEP case (e.g., the webinar, the virtual reading room, the reports to be reviewed) suggest primarily one-way conversations in which information is being delivered. For example, consider the virtual reading room: an online, interactive space that visually approximates a poster session. Created as part of an effort to provide “stakeholders with a safe and effective way to understand the proposed project and provide input despite social distancing requirements,” the virtual reading room is visually rich, available 24/7 with internet access, and mobile-friendly [@zotero-10647]. While the amount of information a viewer has access to is extensive, it doesn’t replicate the most important function of a poster session or open house -- dialogue with humans. 
 
 The use of forums and idea boards in EngagementHQ have more potential to facilitate dialogue. Rather than provide participants with a digital comment box, these tools allow agency managers to create a space where participants can share information and express preferences to the agency as well as to fellow stakeholders. Across these forum comments and ideas, we see invested individuals and stakeholder organizations not only posting ideas but also substantiating both the problem their idea responds to and the efficacy of the solution with data. The MPCA has more flexibility in this context than in the NEPA-mandated review of the BEP impact statement, so we make this comparison not to pass judgement but rather to draw attention to the varied rhetorical functions these tools support.       
 
@@ -389,12 +396,12 @@ Technical communication scholars @moore2016 suggest that public engagement be vi
 
 In this article, we have tried to broaden notions of both science and communication. We suggest viewing science not merely as a set of facts associated with fields such as biology or physics but rather as a systematic problem-solving practice. This shift broadens what we communicate about when we engage in science communication. At the same time, we push against unidirectional, transmission notions of communication in favor of a deliberative frame that privileges dialogue and accordingly is attuned to the work of creating the conditions where dialogue happens. Taken together, we argue that these notions of science and communication position public engagement as a significant site of science communication. Toward that end, we explore some of the digital tools and modes that mediate such communication.  
 
-Importantly, technical communication scholars aren’t the only ones who see the core practices of technical communication as central to supporting public engagement. Consider the [U.S. Public Participation Playbook](https://digital.gov/guides/public-participation/). The Playbook consists of a list of 12 "plays" organized around five foci: Establish goals, understand the playing field, design participation, facilitate participation, and evaluate and report [@2020]. Each play consists of a checklist of recommendations that government managers should follow. For example, “Design Participation” includes the plays “Design for inclusiveness” and “Provide multi-tiered paths to participation.” The checklist for the former includes “Provide accessibility options for persons with disabilities, the aging population and others” as well as “Consider both online and offline support, including a physical version and digital package.”
+As we argue, the core practices and skills of technical communication are central public engagement work. And we aren't alone. Consider the [U.S. Public Participation Playbook](https://digital.gov/guides/public-participation/). The Playbook consists of a list of 12 "plays" organized around five foci: Establish goals, understand the playing field, design participation, facilitate participation, and evaluate and report [@2020]. Each play consists of a checklist of recommendations that government managers should follow. For example, “Design Participation” includes the plays “Design for inclusiveness” and “Provide multi-tiered paths to participation.” The checklist for the former includes “Provide accessibility options for persons with disabilities, the aging population and others” as well as “Consider both online and offline support, including a physical version and digital package.”
 
 Technical communication research and practice offers valuable insights into effectively conveying complex information to both specialist and non-specialist audiences. We find it particularly interesting that many specific recommendations in the public participation playbook align closely with key areas of focus in recent technical communication scholarship. Below are some examples of these recommendations, along with a selection of relevant work in technical communication:
 
 * Create personas of target participants to understand their needs [@getto2022; @rose2018; @mcmullin2021]
-* Talk to underrepresented members of communities; Recognize common dynamics when cultures interact and develop adaptations to service delivery [@gonzales2022; @acharya2023; @rose2016]
+* Talk to underrepresented members of communities; Recognize common dynamics when cultures interact and develop adaptations to service delivery [@gonzales2022a; @acharya2023; @rose2016]
 * Determine paths for participation and their requirements, such as accessibility, commenting and annotation [@rose2021; @moorekristen2017; @moore2017; @cagle2019]
 * Use Plain Language [@cheung2017; @jones2012; @jones2017]
 * Test your content [@kim2023; @h.okeeffe2020; @richards2015]
